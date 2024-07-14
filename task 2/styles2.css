@@ -1,0 +1,77 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightgrey;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+#about {
+    background-color: skyblue;
+    text-align: center;
+}
+#Skills{
+    background-color: white;
+    text-align: center;
+}
+
+#projects {
+    background-color: skyblue;
+    text-align: center;
+}
+#Resume{
+    background-color:white;
+    text-align: center;
+    
+}
+.cta-button {
+    background-color: lightgreen;
+    color: black;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+
+#contact {
+    background-color: skyblue;
+    text-align: center;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: lightgrey;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+}
